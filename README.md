@@ -1,11 +1,11 @@
 # ArmSoM-SDK Release Guide  
 
-ArmSoM provides Linux and Android SDKs for all its products. These SDKs are typically hosted on Baidu Netdisk. This guide uses the **ArmSoM-CM5IO** as an example to demonstrate how to obtain and compile the SDK firmware.  
+ArmSoM provides Linux and Android SDKs for all its products. These SDKs are typically hosted on Baidu Netdisk. This guide uses the **ArmSoM-Sige5** as an example to demonstrate how to obtain and compile the SDK firmware.  
 
 ---
 
 ## **Obtaining the SDK**  
-Click the following link to access the SDK: [GitHub](https://github.com/ArmSoM/rk3576-andriod-sdk/releases/tag/rk3576_Android14RKR6)  
+Click the following link to access the SDK: [GitHub](https://github.com/ArmSoM/rk3576-linux-sdk/releases/tag/v1.0)  
 Download all partition archives to your PC.  
 
 ---
